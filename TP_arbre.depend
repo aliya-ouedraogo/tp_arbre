@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1770757458 source:c:\users\hp\desktop\tp_arbre\arbre.c
+	"arbre.h"
+	<stdio.h>
+	<stdlib.h>
+
+1770757461 c:\users\hp\desktop\tp_arbre\arbre.h
+
+1770757750 source:c:\users\hp\desktop\tp_arbre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+
